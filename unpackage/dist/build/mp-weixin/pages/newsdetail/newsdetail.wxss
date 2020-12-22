@@ -1,0 +1,1 @@
+.news_detail{padding:15rpx}.news_detail .news_title{text-align:center;font-size:35rpx;font-weight:800;padding:15rpx}.news_detail .info{font-size:28rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;padding:15rpx}.news_detail .content{padding:15rpx;font-size:28rpx;color:grey}

@@ -1,0 +1,1 @@
+.item{padding:5px 10px;position:relative}.item .tit{font-size:35rpx;font-weight:800}.item .info{font-size:26rpx;margin-top:20rpx}.item .info text:nth-child(2){margin-left:20px}
